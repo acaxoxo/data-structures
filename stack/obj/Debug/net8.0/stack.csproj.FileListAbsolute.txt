@@ -1,0 +1,14 @@
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\bin\Debug\net8.0\stack.exe
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\bin\Debug\net8.0\stack.deps.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\bin\Debug\net8.0\stack.runtimeconfig.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\bin\Debug\net8.0\stack.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\bin\Debug\net8.0\stack.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\obj\Debug\net8.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\obj\Debug\net8.0\stack.AssemblyInfoInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\obj\Debug\net8.0\stack.AssemblyInfo.cs
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\obj\Debug\net8.0\stack.csproj.CoreCompileInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\obj\Debug\net8.0\stack.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\obj\Debug\net8.0\refint\stack.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\obj\Debug\net8.0\stack.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\obj\Debug\net8.0\stack.genruntimeconfig.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\stack\obj\Debug\net8.0\ref\stack.dll

@@ -1,0 +1,14 @@
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\bin\Debug\net8.0\dictionary.exe
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\bin\Debug\net8.0\dictionary.deps.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\bin\Debug\net8.0\dictionary.runtimeconfig.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\bin\Debug\net8.0\dictionary.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\bin\Debug\net8.0\dictionary.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\obj\Debug\net8.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfoInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\obj\Debug\net8.0\dictionary.AssemblyInfo.cs
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\obj\Debug\net8.0\dictionary.csproj.CoreCompileInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\obj\Debug\net8.0\dictionary.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\obj\Debug\net8.0\refint\dictionary.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\obj\Debug\net8.0\dictionary.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\obj\Debug\net8.0\dictionary.genruntimeconfig.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\dictionary\obj\Debug\net8.0\ref\dictionary.dll

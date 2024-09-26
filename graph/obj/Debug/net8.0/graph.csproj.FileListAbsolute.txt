@@ -1,0 +1,14 @@
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\bin\Debug\net8.0\graph.exe
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\bin\Debug\net8.0\graph.deps.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\bin\Debug\net8.0\graph.runtimeconfig.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\bin\Debug\net8.0\graph.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\bin\Debug\net8.0\graph.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\obj\Debug\net8.0\graph.GeneratedMSBuildEditorConfig.editorconfig
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\obj\Debug\net8.0\graph.AssemblyInfoInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\obj\Debug\net8.0\graph.AssemblyInfo.cs
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\obj\Debug\net8.0\graph.csproj.CoreCompileInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\obj\Debug\net8.0\graph.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\obj\Debug\net8.0\refint\graph.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\obj\Debug\net8.0\graph.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\obj\Debug\net8.0\graph.genruntimeconfig.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph\obj\Debug\net8.0\ref\graph.dll

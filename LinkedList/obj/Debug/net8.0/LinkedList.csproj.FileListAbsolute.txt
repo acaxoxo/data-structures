@@ -1,0 +1,14 @@
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\bin\Debug\net8.0\LinkedList.exe
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\bin\Debug\net8.0\LinkedList.deps.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\bin\Debug\net8.0\LinkedList.runtimeconfig.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\bin\Debug\net8.0\LinkedList.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\bin\Debug\net8.0\LinkedList.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\obj\Debug\net8.0\LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfoInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\obj\Debug\net8.0\LinkedList.AssemblyInfo.cs
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\obj\Debug\net8.0\LinkedList.csproj.CoreCompileInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\obj\Debug\net8.0\LinkedList.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\obj\Debug\net8.0\refint\LinkedList.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\obj\Debug\net8.0\LinkedList.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\obj\Debug\net8.0\LinkedList.genruntimeconfig.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\LinkedList\obj\Debug\net8.0\ref\LinkedList.dll

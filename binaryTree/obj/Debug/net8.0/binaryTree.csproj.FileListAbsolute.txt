@@ -1,0 +1,14 @@
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\bin\Debug\net8.0\binaryTree.exe
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\bin\Debug\net8.0\binaryTree.deps.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\bin\Debug\net8.0\binaryTree.runtimeconfig.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\bin\Debug\net8.0\binaryTree.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\bin\Debug\net8.0\binaryTree.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\obj\Debug\net8.0\binaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\obj\Debug\net8.0\binaryTree.AssemblyInfoInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\obj\Debug\net8.0\binaryTree.AssemblyInfo.cs
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\obj\Debug\net8.0\binaryTree.csproj.CoreCompileInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\obj\Debug\net8.0\binaryTree.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\obj\Debug\net8.0\refint\binaryTree.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\obj\Debug\net8.0\binaryTree.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\obj\Debug\net8.0\binaryTree.genruntimeconfig.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\binaryTree\obj\Debug\net8.0\ref\binaryTree.dll

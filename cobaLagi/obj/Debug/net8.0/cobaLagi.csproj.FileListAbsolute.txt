@@ -1,0 +1,14 @@
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\bin\Debug\net8.0\cobaLagi.exe
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\bin\Debug\net8.0\cobaLagi.deps.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\bin\Debug\net8.0\cobaLagi.runtimeconfig.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\bin\Debug\net8.0\cobaLagi.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\bin\Debug\net8.0\cobaLagi.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\obj\Debug\net8.0\cobaLagi.GeneratedMSBuildEditorConfig.editorconfig
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\obj\Debug\net8.0\cobaLagi.AssemblyInfoInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\obj\Debug\net8.0\cobaLagi.AssemblyInfo.cs
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\obj\Debug\net8.0\cobaLagi.csproj.CoreCompileInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\obj\Debug\net8.0\cobaLagi.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\obj\Debug\net8.0\refint\cobaLagi.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\obj\Debug\net8.0\cobaLagi.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\obj\Debug\net8.0\cobaLagi.genruntimeconfig.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\cobaLagi\obj\Debug\net8.0\ref\cobaLagi.dll

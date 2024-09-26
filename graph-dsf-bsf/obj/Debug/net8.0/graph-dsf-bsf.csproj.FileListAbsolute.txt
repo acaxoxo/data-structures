@@ -1,0 +1,14 @@
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\bin\Debug\net8.0\graph-dsf-bsf.exe
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\bin\Debug\net8.0\graph-dsf-bsf.deps.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\bin\Debug\net8.0\graph-dsf-bsf.runtimeconfig.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\bin\Debug\net8.0\graph-dsf-bsf.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\bin\Debug\net8.0\graph-dsf-bsf.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\obj\Debug\net8.0\graph-dsf-bsf.GeneratedMSBuildEditorConfig.editorconfig
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\obj\Debug\net8.0\graph-dsf-bsf.AssemblyInfoInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\obj\Debug\net8.0\graph-dsf-bsf.AssemblyInfo.cs
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\obj\Debug\net8.0\graph-dsf-bsf.csproj.CoreCompileInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\obj\Debug\net8.0\graph-dsf-bsf.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\obj\Debug\net8.0\refint\graph-dsf-bsf.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\obj\Debug\net8.0\graph-dsf-bsf.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\obj\Debug\net8.0\graph-dsf-bsf.genruntimeconfig.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\graph-dsf-bsf\obj\Debug\net8.0\ref\graph-dsf-bsf.dll

@@ -1,0 +1,14 @@
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\bin\Debug\net8.0\hashSet.exe
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\bin\Debug\net8.0\hashSet.deps.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\bin\Debug\net8.0\hashSet.runtimeconfig.json
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\bin\Debug\net8.0\hashSet.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\bin\Debug\net8.0\hashSet.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\obj\Debug\net8.0\hashSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\obj\Debug\net8.0\hashSet.AssemblyInfoInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\obj\Debug\net8.0\hashSet.AssemblyInfo.cs
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\obj\Debug\net8.0\hashSet.csproj.CoreCompileInputs.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\obj\Debug\net8.0\hashSet.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\obj\Debug\net8.0\refint\hashSet.dll
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\obj\Debug\net8.0\hashSet.pdb
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\obj\Debug\net8.0\hashSet.genruntimeconfig.cache
+C:\CANTIKA\CANTIKA\SEMESTER 3\STRUKTUR DATA\hashSet\obj\Debug\net8.0\ref\hashSet.dll

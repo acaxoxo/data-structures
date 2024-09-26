@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "graph-dsf-bsf", "graph-dsf-bsf.csproj", "{17E9359C-5353-4A1D-AAAF-214F7D1D6D25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17E9359C-5353-4A1D-AAAF-214F7D1D6D25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17E9359C-5353-4A1D-AAAF-214F7D1D6D25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17E9359C-5353-4A1D-AAAF-214F7D1D6D25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17E9359C-5353-4A1D-AAAF-214F7D1D6D25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {465D50F6-B86E-46E5-88D0-EE0975BF4CD5}
+	EndGlobalSection
+EndGlobal
